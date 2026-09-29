@@ -14,12 +14,14 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo no **setor administrativo da Localiza**, trabalhando com gestão da qualidade, rotinas financeiras e acompanhamento de indicadores operacionais. Gosto de unir tecnologia e processos de negócio para criar soluções mais eficientes.
+Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo como **Assistente Administrativo na Localiza&Co**, apoiando a gestão da qualidade, as rotinas financeiras da filial e o controle de improdutividade de veículos sinistrados. Gosto de unir tecnologia, dados e processos de negócio para criar soluções mais eficientes.
 
 - 🌱 **Estudando:** Bancos de Dados, SQL, Agentes de IA e Automação
 - 🎓 **Interesses:** Solução de problemas complexos e otimização de sistemas
 - ☁️ **Certificação:** AWS Cloud Foundations
-- 📊 **Explorando:** Business Intelligence e análise de dados
+- 💼 **Experiência:** Gestão da qualidade, melhoria contínua, conformidade e apoio a auditorias
+- 📊 **Dados:** Excel avançado, acompanhamento de indicadores e Business Intelligence (dashboards e relatórios)
+- 📍 **Localização:** Americana, SP
 - 🌎 **Idiomas:** Português (nativo) e Inglês (avançado)
 - 📫 **Contato:** davibandin2007@gmail.com
 
@@ -49,6 +51,7 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo no **setor 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
@@ -66,6 +69,7 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo no **setor 
 
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -77,6 +81,7 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo no **setor 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -89,9 +94,8 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo no **setor 
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Nome do Projeto 1**](https://github.com/bandin01/REPOSITORIO_1) | Breve descrição do objetivo e das principais funcionalidades. | `Tecnologia` `Tecnologia` |
-| [**Nome do Projeto 2**](https://github.com/bandin01/REPOSITORIO_2) | Breve descrição do objetivo e das principais funcionalidades. | `Tecnologia` `Tecnologia` |
-| [**Nome do Projeto 3**](https://github.com/bandin01/REPOSITORIO_3) | Breve descrição do objetivo e das principais funcionalidades. | `Tecnologia` `Tecnologia` |
+| [**Sistema de Chamados**](https://github.com/bandin01/PROJETO-INTEGRADOR) | Projeto Integrador I: sistema interno de chamados de suporte de TI com cadastro de usuários, abertura e acompanhamento de chamados, controle de status e estatísticas. Inclui modelagem MER e scripts SQL. | `Python` `MySQL` `SQL` |
+| [**Insight-News**](https://github.com/bandin01/Insight-News) | Resumo inteligente de notícias: monitora feeds RSS e Reddit, extrai o conteúdo e usa IA para gerar título curto, três tópicos-chave e categoria automática. Inclui circuito simulado no Wokwi. | `n8n` `Gemini` `C++` `Wokwi` |
 
 ---
 
