@@ -26,19 +26,19 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo como **Dese
 - 🌎 **Idiomas:** Português (nativo) e Inglês (C2 – Proficient)
 - 📫 **Contato:** davibandin2007@gmail.com · [LinkedIn](https://www.linkedin.com/in/davi-bandin-776865398)
 
-<div align="center">
-
-<img src="assets/terminal.svg" alt="Terminal animado" />
-
-</div>
+<br>
 
 ---
+
+<img align="right" width="380" src="assets/terminal.svg" alt="Terminal animado" />
 
 ## 💼 Experiência
 
 **Desenvolvedor Web Full Stack · Freelance** — *07/2026 – atual*
 
 Sites e sistemas para consultório odontológico, academia, pet shops e loja de artigos esportivos. Atuação em todo o ciclo de desenvolvimento, do levantamento de requisitos com o cliente ao deploy, incluindo arquitetura da solução e design de UX/UI com foco em conversão, responsividade e performance.
+
+<br clear="right" />
 
 ---
 
