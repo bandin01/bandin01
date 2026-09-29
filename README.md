@@ -30,9 +30,9 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo como **Dese
 
 ---
 
-<img align="right" width="380" src="assets/terminal.svg" alt="Terminal animado" />
-
 ## 💼 Experiência
+
+<img align="right" width="380" src="assets/terminal.svg" alt="Terminal animado" />
 
 **Desenvolvedor Web Full Stack · Freelance** — *07/2026 – atual*
 
