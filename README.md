@@ -46,21 +46,17 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo como **Assi
 
 ## 🚀 Stack Tecnológicos
 
-### Linguagens & Embarcados
+### Embedded & Low-Level
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,arduino" alt="Linguagens e Embarcados" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,arduino" alt="Embedded & Low-Level" />
 
-### Database & Backend
+### Web Development & Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,nodejs" alt="Database e Backend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,sqlite" alt="Web Development & Database" />
 
-### Web Development
+### Tools & IDEs
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Development" />
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea,pycharm,docker,postman,figma,notion" alt="Cloud e Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,notion,figma" alt="Tools & IDEs" />
 
 </div>
 
