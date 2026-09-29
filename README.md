@@ -14,12 +14,12 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo como **Desenvolvedor Web Full Stack freelance**, criando sites e sistemas sob medida para pequenos negócios. Anteriormente, fui **Assistente Administrativo na Localiza&Co**, apoiando a gestão da qualidade, as rotinas financeiras da filial e o controle de improdutividade de veículos sinistrados. Gosto de unir tecnologia, dados e processos de negócio para criar soluções mais eficientes.
+Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo como **Desenvolvedor Web Full Stack freelance**, criando sites e sistemas sob medida para negócios. Gosto de unir tecnologia, dados e processos de negócio para criar soluções mais eficientes.
 
 - 🔭 **Buscando:** Estágio em TI e Desenvolvimento de Software (Full Stack) — presencial, híbrido ou remoto
 - 🌱 **Estudando:** Programação, Bancos de Dados, SQL, Agentes de IA e Automação
 - 🎓 **Interesses:** Solução de problemas complexos e otimização de sistemas
-- ☁️ **Certificação:** AWS Cloud Foundations
+- ☁️ **Certificações:** AWS Cloud Foundations · EF SET English Certificate (C2 Proficient)
 - 💼 **Experiência:** Desenvolvimento web full stack, gestão da qualidade, melhoria contínua, conformidade e apoio a auditorias
 - 📊 **Dados:** SQL, MySQL, modelagem de dados, Excel avançado (dashboards e indicadores) e noções de BI
 - 📍 **Localização:** Campinas, SP
@@ -33,10 +33,6 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo como **Dese
 **Desenvolvedor Web Full Stack · Freelance** — *07/2026 – atual*
 
 Sites e sistemas para consultório odontológico, academia, pet shops e loja de artigos esportivos. Atuação em todo o ciclo de desenvolvimento, do levantamento de requisitos com o cliente ao deploy, incluindo arquitetura da solução e design de UX/UI com foco em conversão, responsividade e performance.
-
-**Assistente Administrativo · Localiza&Co** — *01/2026 – 06/2026*
-
-Suporte aos processos de gestão da qualidade e identificação de não conformidades, análise de dados operacionais e controle de improdutividade, rotinas financeiras, controle de ativos e organização de documentação para auditorias.
 
 ---
 
