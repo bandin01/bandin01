@@ -26,6 +26,12 @@ Sou estudante de **Sistemas de Informação na PUC-Campinas** e atuo como **Dese
 - 🌎 **Idiomas:** Português (nativo) e Inglês (C2 – Proficient)
 - 📫 **Contato:** davibandin2007@gmail.com · [LinkedIn](https://www.linkedin.com/in/davi-bandin-776865398)
 
+<div align="center">
+
+<img src="assets/terminal.svg" alt="Terminal animado" />
+
+</div>
+
 ---
 
 ## 💼 Experiência
